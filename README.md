@@ -37,6 +37,4 @@ E.  Setup AWS Code Build Project
 
 [View Sample `buildspec.yml` Config Here](https://github.com/noahgift/Flask-Elastic-Beanstalk/blob/main/buildspec.yml)
 
-F.  Suggested next steps (Convert to ML Engineering project [like this project](https://github.com/noahgift/flask-ml-azure-serverless))
-
 
