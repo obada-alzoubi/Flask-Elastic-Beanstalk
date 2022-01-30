@@ -39,7 +39,4 @@ E.  Setup AWS Code Build Project
 
 F.  Suggested next steps (Convert to ML Engineering project [like this project](https://github.com/noahgift/flask-ml-azure-serverless))
 
-### Other Resources
 
-* [Complete Walkthrough of Process on O'Reilly Platform](https://learning.oreilly.com/videos/aws-elastic-beanstalk/62022021VIDEOPAIML/62022021VIDEOPAIML-c1_s0)
-* [Previous YouTube Walkthrough](https://youtu.be/iSv-i1tWpQc)
