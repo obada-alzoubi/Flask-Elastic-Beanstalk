@@ -30,6 +30,8 @@ C. initialize new eb app
 D. Create remote eb instance
 
 `eb create flask-continuous-delivery-env`
+or if you have VPC
+`eb create flask-continuous-delivery-env --vpc vpc-xxxxxxxxxx`
 
 E.  Setup AWS Code Build Project
 
